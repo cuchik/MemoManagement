@@ -31,7 +31,6 @@ class Memo extends Component {
     if (memos.length === 0) {
       getMemos();
     }
-    // getMemos();
   }
 
   renderForm = formProps => {
