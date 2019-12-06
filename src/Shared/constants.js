@@ -1,4 +1,0 @@
-const PER_PAGE_OPTIONS = [5, 10, 50];
-const INITIAL_PER_PAGE = 5;
-
-export { PER_PAGE_OPTIONS, INITIAL_PER_PAGE };
